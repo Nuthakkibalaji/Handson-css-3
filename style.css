@@ -1,0 +1,181 @@
+
+.head{
+    background-image: url(./headlast.jpg);
+    background-position: center;
+    background-size: cover;
+    border: 0.1px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    padding: 4px;
+    height: 220px;
+    position: relative;
+    bottom: 4px;
+}
+.id{
+    border: 6px solid rgb(255, 254, 254);
+    box-shadow: 5px 5px white;
+    color: aliceblue;
+    padding: 0px;
+    border-radius: 30px;
+    width: 400px;
+    text-shadow: 2.5px 2.5px 2.5px black;
+   text-align: center;
+   color: white;
+   font-size: 53px; 
+   position: relative;
+   left: 400px;
+   top: 10px;
+}
+.side{
+    border: 1px solid black ;
+    border-radius: 0 50px 0 50px;
+    background-image: url(./final-2.jpg);
+    background-position: center;
+    background-size: cover;
+    
+    height:690px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.div1{
+    border: 3px solid white;
+    box-shadow: 4px 4px white;
+    color:white;
+    padding: 0px;
+    border-radius:0 0px 50px 50px;
+    height: 280px;
+    width: 330px;
+    font-weight:bolder;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+   text-align: center;
+   font-size: 38px;
+   background-image: url() ;
+   background-position:0mm;
+   position: absolute;
+   left: 40px;
+   top: 330px;
+}
+.div2{
+        border: 3px solid rgb(243, 243, 243);
+        box-shadow: 4px 4px white;
+        padding: 0px;
+        border-radius: 0 0 50px 50px;
+        height: 260px;
+        width: 330px;
+       background: transparent;
+       background-position: center;
+       position: absolute;
+       left: 900px;
+       top: 330px;
+       
+    }
+    .div3{
+        border: 3px solid rgb(249, 248, 248);
+        box-shadow: 4px 4px white;
+        color: white;
+        padding: 0px;
+        border-radius: 0 0 50px 50px;
+        height: 290px;
+        width: 330px;
+        font-weight: bolder;
+        text-shadow: 3px 3px 3px rgb(0, 0, 0);
+       text-align: center;
+       font-size: 38px;
+       position: absolute;
+       left: 40px;
+       top: 650px;
+    }
+    .div4{
+        border: 3px solid rgb(255, 252, 252);
+        box-shadow: 4px 4px white;
+        padding: 0px;
+        border-radius: 0 0 50px 50px;
+        height: 290px;
+        width: 330px;
+       text-align: center;
+       font-size: 20px;
+       position: absolute;
+       left: 900px;
+       top: 650px;
+       
+    }
+    .end{
+        margin:10px;
+        border: 2px solid black;
+        border-radius: 20px;
+        background-image: url(./healthy-fruit-salad-with-vegetables-pecans.jpg);
+        opacity: 0.9;
+        filter: opacity(20);
+        background-size: cover;
+        height: 580px;
+        width: 705px;
+        color: rgb(111, 178, 44);
+        text-align: center;
+        font-size: larger ;
+        font-weight: bolder;
+        position: relative;
+        left: 280px;
+    }
+    .item-cl{
+        color: rgb(0, 0, 0);
+        border: 4px solid rgb(253, 255, 253);
+        margin: 20px;
+        padding: 0px;
+        width: 340px;
+        text-shadow: 2px 2px 2px white;
+        text-align: center;
+        border-radius: 50px;
+        position: relative;
+        right: 15px;
+        height: 270px;
+        bottom:9px;
+    }
+    .item-cb{
+        color: rgb(0, 0, 0);
+        border: 4px solid rgb(254, 255, 254);
+        margin: 20px;
+        padding: 0px;
+        width: 340px;
+        text-shadow: 2px 2px 2px white;
+        text-align: center;
+        border-radius: 50px;
+        position: relative;
+        left: 333px;
+        bottom: 308px;
+
+    }
+    .item-cc{
+        color: rgb(0, 0, 0);
+        border: 4px solid rgb(250, 254, 250);
+        margin: 20px;
+        padding: 0px;
+        width: 655px;
+        font-weight:900;
+        text-shadow: 2px 2px 2px white;
+        text-align: center;
+        border-radius: 50px;
+        position: relative;
+        bottom: 320px;
+    }
+    .image img{
+        width: 100%;
+        height: 300px;
+        background-position: center;
+        background-size: cover;
+        position: absolute;
+        top: 1380px;
+
+    }
+    .menu{
+        border: 4px solid rgb(0, 0, 0);
+        box-shadow: 4px 4px rgb(6, 6, 6);
+        border-radius: 50px;
+        background-position: center;
+        background-size: cover;
+        width:500px;
+        position: relative;
+        bottom:30px;
+        left:398px;
+        position: fixed;
+        
+    }
